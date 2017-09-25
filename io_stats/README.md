@@ -1,6 +1,6 @@
 # io.Reader custom implementations
 ##### What is it?
-A list of custom io.Reader implementations from based on public github.com repositories.
+A list of custom io.Reader implementations based [on the most starred github.com repositories](https://github.com/search?utf8=%E2%9C%93&q=language%3AGo+stars%3A%3E50&type=Repositories).
 
 ##### Why?
 I've often wondered how often developers write their own io.Reader implementations and why?
